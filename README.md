@@ -47,6 +47,10 @@ scheme
 
 ;Value: 11
 ```
+5. 常用命令
+
+		1. `ctrl+z`
+		2. `ctrl+g`
 
 
 ## 参考资料
@@ -54,6 +58,7 @@ scheme
 1. [习题参考答案](http://sicp.readthedocs.io/en/latest/)
 2. [SICP读书笔记](https://github.com/jiacai2050/sicp)
 3. [北大程序设计技术和方法-教学主页](http://www.math.pku.edu.cn/teachers/qiuzy/progtech/)
+4. [MIT-Scheme入门教程](https://www.w3cschool.cn/yast_cn/6lxnmozt.html)
 
 ## Timeline
 

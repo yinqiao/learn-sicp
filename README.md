@@ -47,3 +47,14 @@ scheme
 
 ;Value: 11
 ```
+
+
+## 参考资料
+
+1. [习题参考答案](http://sicp.readthedocs.io/en/latest/)
+2. [SICP读书笔记](https://github.com/jiacai2050/sicp)
+3. [北大程序设计技术和方法-教学主页](http://www.math.pku.edu.cn/teachers/qiuzy/progtech/)
+
+## Timeline
+
+* 2018-03-10 开启SICP之旅
